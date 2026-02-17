@@ -1,0 +1,2 @@
+Java File Handling Example
+This is a simple note.
